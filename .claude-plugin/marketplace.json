@@ -1,0 +1,15 @@
+{
+  "name": "lucid-mcp-server",
+  "owner": {
+    "name": "Lucid Software",
+    "email": "support@lucid.co"
+  },
+  "description": "Plugins for connecting Claude to the Lucid MCP server.",
+  "plugins": [
+    {
+      "name": "lucid",
+      "source": "./claude/.claude-plugin",
+      "description": "Connect Claude to Lucid through its official MCP server to search, create, edit, export, share, and comment on Lucid documents."
+    }
+  ]
+}
