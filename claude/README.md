@@ -2,7 +2,7 @@
 
 Connect Claude to the Lucid MCP server for working with Lucid documents, diagrams, boards, and resources.
 
-This plugin bundles the remote MCP configuration and a Lucid skill. The MCP server configuration is defined inline in `.claude-plugin/plugin.json`, so the plugin does not need a separate `.mcp.json` file.
+This plugin bundles the remote MCP configuration and a Lucid skill.
 
 ## Installation
 

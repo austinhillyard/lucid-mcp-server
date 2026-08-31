@@ -18,15 +18,22 @@
     "lucidspark",
     "lucidscale",
     "diagrams",
+    "documents",
+    "boards",
     "whiteboard",
     "mcp",
-    "visual-collaboration"
+    "visual-collaboration",
+    "collaboration",
+    "flowchart",
+    "org-chart",
+    "mind-map",
+    "sequence-diagram",
+    "erd",
+    "uml",
+    "plantuml",
+    "export",
+    "sharing",
+    "comments"
   ],
-  "skills": "./skills/",
-  "mcpServers": {
-    "lucid-mcp": {
-      "type": "http",
-      "url": "https://mcp.lucid.app/mcp"
-    }
-  }
+  "skills": "./skills/"
 }

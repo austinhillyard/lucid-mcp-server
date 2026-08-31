@@ -8,8 +8,17 @@
   "plugins": [
     {
       "name": "lucid",
-      "source": "./claude/.claude-plugin",
-      "description": "Connect Claude to Lucid through its official MCP server to search, create, edit, export, share, and comment on Lucid documents."
+      "source": "./claude",
+      "description": "Connect Claude to Lucid through its official MCP server to search, create, edit, export, share, and comment on Lucid documents.",
+      "category": "productivity",
+      "tags": [
+        "diagrams",
+        "documents",
+        "boards",
+        "whiteboards",
+        "mcp",
+        "collaboration"
+      ]
     }
   ]
 }
